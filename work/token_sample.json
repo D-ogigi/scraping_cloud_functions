@@ -1,0 +1,7 @@
+
+{
+  "test_token":"テスト用トークン",
+  "production_token":"本番用トークン",
+  "token_url":"指定のurl",
+  "scr_url":"スクレイピング先のurl"
+}
